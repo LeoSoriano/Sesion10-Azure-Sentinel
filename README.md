@@ -61,6 +61,8 @@ Nos ayuda a detectar peuqeñas fallas o huecos, nos ayuda sobre todo a administr
 
 8.- Entramos dentro de nuestra zona de trabajo. Nos vamos a la seccion que dice **MITRE ATY&CK**, que nos mostrara todos los posibles ataques.
 
+![MITRE ATY&CK](Imagenes/MittreAtack.JPG)
+
 Con esto, podemos saber un poco en forma teorica sobre ciber-seguridad
 
 Uno de los ataques en especial son los discipulos de exploit por que son indetectables.
